@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello sara!!!!!!!!
+sara!!
+
+hello rut!!!!!!!!
 ruth conflict
